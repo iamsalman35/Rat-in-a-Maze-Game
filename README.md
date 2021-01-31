@@ -5,7 +5,6 @@ Rat-in-a-maze game, with GUI ; where given a maze(maze.txt), the rat is able to 
 
 
 BUILD OUTPUT DESCRIPTION
-
 ========================
 
 When you build an Java application project that has a main class, the IDE
